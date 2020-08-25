@@ -128,6 +128,7 @@ bindkey -M vicmd 'j' history-substring-search-down
 # Alias
 alias s=neofetch
 alias ra=ranger
+alias la="ls -lha"
 alias trans="python /home/matteo/Github/translator/translator.py"
 
 # }}} End configuration added by Zim install
